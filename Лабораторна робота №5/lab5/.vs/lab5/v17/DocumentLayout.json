@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\facade\\imageprocessorfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\facade\\imageprocessorfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\decorators\\rectcropfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\decorators\\rectcropfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\decorators\\circlecropfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\decorators\\circlecropfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\decorators\\saturationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\decorators\\saturationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\decorators\\noisefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\decorators\\noisefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\decorators\\blurfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\decorators\\blurfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\decorators\\sharpenfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\decorators\\sharpenfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\decorators\\imagefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\decorators\\imagefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\image\\bwimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\image\\bwimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\image\\colorimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\image\\colorimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\decorator\\image\\iimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54666A2-F72C-48AA-94C7-4F2046C30202}|lab5\\lab5.csproj|solutionrelative:lab5\\decorator\\image\\iimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageProcessorFacade.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Facade\\ImageProcessorFacade.cs",
+              "RelativeDocumentMoniker": "lab5\\Facade\\ImageProcessorFacade.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Facade\\ImageProcessorFacade.cs",
+              "RelativeToolTip": "lab5\\Facade\\ImageProcessorFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:16:32.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RectCropFilter.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\RectCropFilter.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Decorators\\RectCropFilter.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\RectCropFilter.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Decorators\\RectCropFilter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:14:53.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CircleCropFilter.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\CircleCropFilter.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Decorators\\CircleCropFilter.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\CircleCropFilter.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Decorators\\CircleCropFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:13:26.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaturationFilter.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\SaturationFilter.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Decorators\\SaturationFilter.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\SaturationFilter.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Decorators\\SaturationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:12:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoiseFilter.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\NoiseFilter.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Decorators\\NoiseFilter.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\NoiseFilter.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Decorators\\NoiseFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:09:54.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SharpenFilter.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\SharpenFilter.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Decorators\\SharpenFilter.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\SharpenFilter.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Decorators\\SharpenFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:08:14.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlurFilter.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\BlurFilter.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Decorators\\BlurFilter.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\BlurFilter.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Decorators\\BlurFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:06:29.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageFilter.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\ImageFilter.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Decorators\\ImageFilter.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Decorators\\ImageFilter.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Decorators\\ImageFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:03:29.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BWImage.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Image\\BWImage.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Image\\BWImage.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Image\\BWImage.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Image\\BWImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:49:40.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColorImage.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Image\\ColorImage.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Image\\ColorImage.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Image\\ColorImage.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Image\\ColorImage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:33:49.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IImage.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Image\\IImage.cs",
+              "RelativeDocumentMoniker": "lab5\\Decorator\\Image\\IImage.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Decorator\\Image\\IImage.cs",
+              "RelativeToolTip": "lab5\\Decorator\\Image\\IImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:32:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Program.cs",
+              "RelativeDocumentMoniker": "lab5\\Program.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21165\\lab5\\lab5\\Program.cs",
+              "RelativeToolTip": "lab5\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:31:06.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

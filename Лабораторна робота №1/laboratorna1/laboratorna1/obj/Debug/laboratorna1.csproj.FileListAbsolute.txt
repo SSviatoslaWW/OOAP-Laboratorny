@@ -1,0 +1,8 @@
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №1\laboratorna1\laboratorna1\bin\Debug\laboratorna1.exe.config
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №1\laboratorna1\laboratorna1\bin\Debug\laboratorna1.exe
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №1\laboratorna1\laboratorna1\bin\Debug\laboratorna1.pdb
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №1\laboratorna1\laboratorna1\obj\Debug\laboratorna1.csproj.AssemblyReference.cache
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №1\laboratorna1\laboratorna1\obj\Debug\laboratorna1.csproj.CoreCompileInputs.cache
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №1\laboratorna1\laboratorna1\obj\Debug\laboratorna1.exe
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №1\laboratorna1\laboratorna1\obj\Debug\laboratorna1.pdb
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №1\laboratorna1\laboratorna1\obj\Debug\laboratorna1.exe.config

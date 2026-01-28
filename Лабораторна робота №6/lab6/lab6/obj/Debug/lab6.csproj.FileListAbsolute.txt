@@ -1,0 +1,7 @@
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №6\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №6\lab6\lab6\bin\Debug\lab6.exe
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №6\lab6\lab6\bin\Debug\lab6.pdb
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №6\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №6\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №6\lab6\lab6\obj\Debug\lab6.exe
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №6\lab6\lab6\obj\Debug\lab6.pdb
