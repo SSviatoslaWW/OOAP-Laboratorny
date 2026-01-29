@@ -46,8 +46,10 @@
     <Compile Include="Factories\FilmFactory.cs" />
     <Compile Include="Factories\PaintedFactory.cs" />
     <Compile Include="Factories\PlasticFactory.cs" />
+    <Compile Include="Interface\IDisplayFacade.cs" />
     <Compile Include="Interface\IFacade.cs" />
     <Compile Include="Interface\IFacadeFactory.cs" />
+    <Compile Include="Interface\ISolidFacade.cs" />
     <Compile Include="Product\Display\FilmDisplay.cs" />
     <Compile Include="Product\Display\PaintedDisplay.cs" />
     <Compile Include="Product\Display\PlasticDisplay.cs" />

@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstraction\SkiMuneris.cs" />
+    <Compile Include="Abstraction\SnowboardRental.cs" />
     <Compile Include="Implementations\BurtonProvider.cs" />
     <Compile Include="Implementations\ISnowboardProvider.cs" />
     <Compile Include="Implementations\RossignolProvider.cs" />

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace lab4.Abstraction
 {
-    internal class SkiMuneris
+    internal class SkiMuneris : SnowboardRental
     {
         ISnowboardProvider provider;
 

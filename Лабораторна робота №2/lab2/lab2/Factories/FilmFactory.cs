@@ -13,7 +13,7 @@ namespace lab2.Factories
     {
         public string MaterialName => "Плівка";
 
-        public IFacade CreateSolid(double w, double h)
+        public ISolidFacade CreateSolid(double w, double h)
         {
             return new FilmSolid
             {
@@ -24,7 +24,7 @@ namespace lab2.Factories
         }
 
 
-        public IFacade CreateDisplay(double w, double h)
+        public IDisplayFacade CreateDisplay(double w, double h)
         {
             return new FilmDisplay
             {

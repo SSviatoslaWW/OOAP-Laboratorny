@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace lab2.Product.Solid
 {
-    internal class FilmSolid :IFacade
+    internal class FilmSolid :ISolidFacade
     {
         public string Title => "Суцільний фасад";
         public string Material { get; set; }

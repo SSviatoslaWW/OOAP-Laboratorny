@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace lab2.Product.Display
 {
-    internal class PlasticDisplay : IFacade
+    internal class PlasticDisplay : IDisplayFacade
     {
         public string Title => "Вітринний фасад";
         public string Material { get; set; }

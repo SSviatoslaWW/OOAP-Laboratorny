@@ -8,7 +8,7 @@ namespace lab4
     internal class Program
     {
         // Наш кошик (контейнер для різних "містків")
-        static List<SkiMuneris> cart = new List<SkiMuneris>();
+        static List<SnowboardRental> cart = new List<SnowboardRental>();
 
         static void Main(string[] args)
         {
@@ -69,7 +69,7 @@ namespace lab4
             int count = int.Parse(Console.ReadLine() ?? "1");
 
             // Створюємо новий об'єкт абстракції з обраним містком
-            SkiMuneris newItem = new SkiMuneris(provider, size, dir);
+            SnowboardRental newItem = new SkiMuneris(provider, size, dir);
             newItem.AddQuantity(count);
 
             // Додаємо в кошик

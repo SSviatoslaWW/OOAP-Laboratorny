@@ -13,7 +13,7 @@ namespace lab2.Factories
     {
         public string MaterialName => "Пластик";
 
-        public IFacade CreateSolid(double w, double h) 
+        public ISolidFacade CreateSolid(double w, double h) 
         {
             return new PlasticSolid { Width = w, 
                                       Height = h, 
@@ -22,7 +22,7 @@ namespace lab2.Factories
         }
             
 
-        public IFacade CreateDisplay(double w, double h)
+        public IDisplayFacade CreateDisplay(double w, double h)
         {
             return new PlasticDisplay { Width = w, 
                                         Height = h, 

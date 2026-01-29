@@ -9,7 +9,7 @@ namespace lab2.Interface
     internal interface IFacadeFactory
     {
         string MaterialName { get; }
-        IFacade CreateSolid(double w, double h);
-        IFacade CreateDisplay(double w, double h);
+        ISolidFacade CreateSolid(double w, double h);
+        IDisplayFacade CreateDisplay(double w, double h);
     }
 }
