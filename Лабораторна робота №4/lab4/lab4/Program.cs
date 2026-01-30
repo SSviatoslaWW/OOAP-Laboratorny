@@ -68,7 +68,6 @@ namespace lab4
             Console.Write("Кількість одиниць: ");
             int count = int.Parse(Console.ReadLine() ?? "1");
 
-            // Створюємо новий об'єкт абстракції з обраним містком
             SnowboardRental newItem = new SkiMuneris(provider, size, dir);
             newItem.AddQuantity(count);
 

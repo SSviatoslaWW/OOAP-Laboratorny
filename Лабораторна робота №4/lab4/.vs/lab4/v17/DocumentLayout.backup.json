@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\implementations\\burtonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|solutionrelative:lab4\\implementations\\burtonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\abstraction\\skimuneris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|solutionrelative:lab4\\abstraction\\skimuneris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\abstraction\\snowboardrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\abstraction\\snowboardrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|solutionrelative:lab4\\abstraction\\snowboardrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\implementations\\rossignolprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|solutionrelative:lab4\\implementations\\rossignolprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\implementations\\isnowboardprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|solutionrelative:lab4\\implementations\\isnowboardprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\implementations\\burtonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|solutionrelative:lab4\\implementations\\burtonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\implementations\\rossignolprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|solutionrelative:lab4\\implementations\\rossignolprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE226350-982D-4EF5-A155-25E613206816}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SnowboardRental.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\Abstraction\\SnowboardRental.cs",
               "RelativeDocumentMoniker": "lab4\\Abstraction\\SnowboardRental.cs",
@@ -51,20 +51,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SkiMuneris.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\Abstraction\\SkiMuneris.cs",
               "RelativeDocumentMoniker": "lab4\\Abstraction\\SkiMuneris.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\Abstraction\\SkiMuneris.cs",
               "RelativeToolTip": "lab4\\Abstraction\\SkiMuneris.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwCMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T08:52:05.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "RossignolProvider.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\Implementations\\RossignolProvider.cs",
               "RelativeDocumentMoniker": "lab4\\Implementations\\RossignolProvider.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "BurtonProvider.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\Implementations\\BurtonProvider.cs",
               "RelativeDocumentMoniker": "lab4\\Implementations\\BurtonProvider.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ISnowboardProvider.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\Implementations\\ISnowboardProvider.cs",
               "RelativeDocumentMoniker": "lab4\\Implementations\\ISnowboardProvider.cs",
@@ -103,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\Program.cs",
               "RelativeDocumentMoniker": "lab4\\Program.cs",
-              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\Program.cs*",
-              "RelativeToolTip": "lab4\\Program.cs*",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21164\\lab4\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T08:36:48.334Z",
               "EditorCaption": ""

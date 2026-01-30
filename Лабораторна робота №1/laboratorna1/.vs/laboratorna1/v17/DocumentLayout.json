@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\abstractsuperclass\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|solutionrelative:laboratorna1\\abstractsuperclass\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|solutionrelative:laboratorna1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\abstractsuperclass\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|solutionrelative:laboratorna1\\abstractsuperclass\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\abstractsuperclass\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\abstractsuperclass\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|solutionrelative:laboratorna1\\abstractsuperclass\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\abstractsuperclass\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\abstractsuperclass\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|solutionrelative:laboratorna1\\abstractsuperclass\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\abstractsuperclass\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\abstractsuperclass\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72A05960-27FC-4425-8712-3D199EE1A2F8}|laboratorna1\\laboratorna1.csproj|solutionrelative:laboratorna1\\abstractsuperclass\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "laboratorna1\\AbstractSuperClass\\Circle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T10:12:59.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T10:12:59.205Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "laboratorna1\\AbstractSuperClass\\Square.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T10:09:20Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T10:09:20Z"
             },
             {
               "$type": "Document",
@@ -68,25 +66,24 @@
               "RelativeToolTip": "laboratorna1\\AbstractSuperClass\\Rectangle.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T10:00:13.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T10:00:13.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\AbstractSuperClass\\Shape.cs",
               "RelativeDocumentMoniker": "laboratorna1\\AbstractSuperClass\\Shape.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\AbstractSuperClass\\Shape.cs",
               "RelativeToolTip": "laboratorna1\\AbstractSuperClass\\Shape.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T09:42:34.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\laboratorna1\\laboratorna1\\Program.cs",
               "RelativeDocumentMoniker": "laboratorna1\\Program.cs",

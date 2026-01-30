@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\factories\\plasticfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\factories\\plasticfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\factories\\plasticfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\factories\\filmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\factories\\filmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\factories\\paintedfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\factories\\paintedfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\interface\\isolidfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\interface\\isolidfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\factories\\filmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\factories\\filmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\product\\display\\filmdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\product\\display\\filmdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\interface\\ifacadefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +31,32 @@
       "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\product\\solid\\paintedsolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\product\\solid\\filmsolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\product\\solid\\filmsolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\product\\display\\plasticdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\product\\display\\plasticdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\product\\display\\painteddisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\product\\display\\painteddisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\product\\display\\plasticdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\product\\display\\plasticdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\interface\\isolidfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\interface\\isolidfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\product\\display\\filmdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\product\\display\\filmdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\interface\\idisplayfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\interface\\idisplayfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\interface\\ifacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\interface\\ifacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\interface\\ifacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\interface\\idisplayfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\interface\\idisplayfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\product\\solid\\filmsolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9DE98F-5273-44F4-A147-23DE02266A5B}|lab2\\lab2.csproj|solutionrelative:lab2\\product\\solid\\filmsolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ISolidFacade.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Interface\\ISolidFacade.cs",
               "RelativeDocumentMoniker": "lab2\\Interface\\ISolidFacade.cs",
@@ -96,26 +96,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FilmFactory.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Factories\\FilmFactory.cs",
               "RelativeDocumentMoniker": "lab2\\Factories\\FilmFactory.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Factories\\FilmFactory.cs",
               "RelativeToolTip": "lab2\\Factories\\FilmFactory.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T15:12:34.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PaintedFactory.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Factories\\PaintedFactory.cs",
               "RelativeDocumentMoniker": "lab2\\Factories\\PaintedFactory.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Factories\\PaintedFactory.cs",
               "RelativeToolTip": "lab2\\Factories\\PaintedFactory.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T15:11:32.71Z",
               "EditorCaption": ""
@@ -141,7 +141,7 @@
               "RelativeDocumentMoniker": "lab2\\Product\\Solid\\PaintedSolid.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Product\\Solid\\PaintedSolid.cs",
               "RelativeToolTip": "lab2\\Product\\Solid\\PaintedSolid.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T15:05:24.136Z",
               "EditorCaption": ""
@@ -161,20 +161,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "FilmDisplay.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Product\\Display\\FilmDisplay.cs",
               "RelativeDocumentMoniker": "lab2\\Product\\Display\\FilmDisplay.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Product\\Display\\FilmDisplay.cs",
               "RelativeToolTip": "lab2\\Product\\Display\\FilmDisplay.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T15:03:17.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "FilmSolid.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Product\\Solid\\FilmSolid.cs",
               "RelativeDocumentMoniker": "lab2\\Product\\Solid\\FilmSolid.cs",
@@ -182,12 +182,11 @@
               "RelativeToolTip": "lab2\\Product\\Solid\\FilmSolid.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:01:39.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:01:39.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "PlasticDisplay.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Product\\Display\\PlasticDisplay.cs",
               "RelativeDocumentMoniker": "lab2\\Product\\Display\\PlasticDisplay.cs",
@@ -226,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "IFacade.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Interface\\IFacade.cs",
               "RelativeDocumentMoniker": "lab2\\Interface\\IFacade.cs",
@@ -239,13 +238,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Program.cs",
               "RelativeDocumentMoniker": "lab2\\Program.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21162\\lab2\\lab2\\Program.cs",
               "RelativeToolTip": "lab2\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAowCoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T11:36:56.808Z",
               "EditorCaption": ""
