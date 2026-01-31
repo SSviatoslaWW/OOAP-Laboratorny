@@ -1,0 +1,8 @@
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №9\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №9\lab9\lab9\bin\Debug\lab9.exe
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №9\lab9\lab9\bin\Debug\lab9.pdb
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №9\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №9\lab9\lab9\obj\Debug\lab9.exe
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №9\lab9\lab9\obj\Debug\lab9.pdb
+C:\Практичні роботи\3 курс\ООАП\Лабораторна робота №9\lab9\lab9\obj\Debug\lab9.exe.config
