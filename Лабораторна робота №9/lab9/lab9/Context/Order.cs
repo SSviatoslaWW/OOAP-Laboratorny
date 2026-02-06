@@ -16,7 +16,7 @@ namespace lab9.Context
         {
             this.OrderNumber = number;
             stateOrder = new NewOrderState();
-            Console.WriteLine($"Замовлення {OrderNumber} створено. Стан: {stateOrder.GetStatusname()}");
+            Console.WriteLine($"Замовлення {OrderNumber} створено. |\nСтан: {stateOrder.GetStatusname()}");
         }
 
         public void SetState(IOrderState state)

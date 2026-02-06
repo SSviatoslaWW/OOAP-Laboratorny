@@ -28,7 +28,7 @@ namespace lab10
             {
                 Console.WriteLine("===========================================");
                 hero.PlayScenario(level);
-
+ 
                 if (level.Title == "Тихий гай")
                 {
                     hero.SetStrategy(new MountainForestStrategy());

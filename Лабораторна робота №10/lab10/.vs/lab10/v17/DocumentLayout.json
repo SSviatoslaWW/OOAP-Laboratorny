@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\context\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\context\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\context\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\strategys\\forestriverstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\strategys\\forestriverstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\strategys\\stealthforeststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\strategys\\stealthforeststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\strategys\\rivermountainstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\strategys\\rivermountainstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\strategys\\mountainforeststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\strategys\\mountainforeststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\strategys\\rivermountainstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\strategys\\rivermountainstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\strategys\\forestriverstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\strategys\\forestriverstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\strategys\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\strategys\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\scenario\\scenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\scenario\\scenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\scenario\\scenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u043E\u043E\u0430\u043F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\strategys\\stealthforeststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\strategys\\stealthforeststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\strategys\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81B5D9-A411-4E83-BA55-71B610AD1AB9}|lab10\\lab10.csproj|solutionrelative:lab10\\strategys\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "StealthForestStrategy.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Strategys\\StealthForestStrategy.cs",
               "RelativeDocumentMoniker": "lab10\\Strategys\\StealthForestStrategy.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MountainForestStrategy.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Strategys\\MountainForestStrategy.cs",
               "RelativeDocumentMoniker": "lab10\\Strategys\\MountainForestStrategy.cs",
@@ -85,20 +85,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ForestRiverStrategy.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Strategys\\ForestRiverStrategy.cs",
               "RelativeDocumentMoniker": "lab10\\Strategys\\ForestRiverStrategy.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Strategys\\ForestRiverStrategy.cs",
               "RelativeToolTip": "lab10\\Strategys\\ForestRiverStrategy.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-31T10:12:21.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IMovementStrategy.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Strategys\\IMovementStrategy.cs",
               "RelativeDocumentMoniker": "lab10\\Strategys\\IMovementStrategy.cs",
@@ -111,13 +111,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Unit.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Context\\Unit.cs",
               "RelativeDocumentMoniker": "lab10\\Context\\Unit.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Context\\Unit.cs",
               "RelativeToolTip": "lab10\\Context\\Unit.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-31T10:16:22.322Z",
               "EditorCaption": ""
@@ -130,20 +130,20 @@
               "RelativeDocumentMoniker": "lab10\\Scenario\\Scenario.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Scenario\\Scenario.cs",
               "RelativeToolTip": "lab10\\Scenario\\Scenario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-31T10:08:23.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Program.cs",
               "RelativeDocumentMoniker": "lab10\\Program.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\3 \u043A\u0443\u0440\u0441\\\u041E\u041E\u0410\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211610\\lab10\\lab10\\Program.cs",
               "RelativeToolTip": "lab10\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-31T09:46:26.857Z",
               "EditorCaption": ""
